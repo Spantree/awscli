@@ -1,5 +1,8 @@
 ## Alpine based aws command line client
 
+This container runs the following:
+
+`aws-cli/1.11.19 Python/2.7.12 Linux/4.4.27-moby botocore/1.4.76`
 
 ##### Simple usage
 
